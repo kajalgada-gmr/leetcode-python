@@ -5,7 +5,7 @@ Link to leetcode problem: https://leetcode.com/problems/swapping-nodes-in-a-link
 Learnings:
 
 - Swapping 2 nodes → you can simply swap their values. No need to change the pointers!
-- Same as getting k nodes from back.
+- Similar to remove nth node from end of list.
 - If the list had k nodes and you want kth node from end, that is the first node (head). 
   
   So to kth node from end, go to kth node. 
