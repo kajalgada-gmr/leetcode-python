@@ -15,4 +15,4 @@ Solution 1 Link: https://github.com/KajalGada/leetcode-python/blob/main/leetcode
 
 Solution 2 Explaination: https://leetcode.com/problems/maximum-binary-tree/discuss/258364/Python-O(n)-solution-with-explanation.
 
-Solution 2 Link: 
+Solution 2 Link: https://github.com/KajalGada/leetcode-python/blob/main/leetcode_654_maximum_binary_tree/leetcode%20654%20maximum%20binary%20tree%20sol%202.py
